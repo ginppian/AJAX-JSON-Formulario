@@ -10,7 +10,7 @@ FORMULARIO POST JSON Y AJAX
 ## Desarrollo
 
 1. Tomamos nuestro <a href="https://github.com/ginppian/Boostrap-Formulario-Resposivo">Formulario Pasado</a>.
-2. Y en la código de <i>JS</i> implementamos <i>JQuery</i>.
+2. Y en la código de <i>JS/JQuery</i> implementamos
 
 ````
 $(document).ready(function(){
